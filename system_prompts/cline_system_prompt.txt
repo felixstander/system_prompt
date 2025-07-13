@@ -17,6 +17,7 @@
 </tool_name>
 
 例如：
+sdsd
 
 <read_file>
 <path>src/main.js</path>
